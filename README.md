@@ -53,3 +53,5 @@ La porta `443 (HTTPS)` ? accessibile sulla porta host `8443`
 Per provare i virtual host utilizzare `xip.io` o `nip.io`
 
 Ad esempio: impostando `wordpress.127.0.0.1.nip.io` come dominio per WordPress si potr? accedere a WordPress andando su `http://wordpress.127.0.0.1.nip.io:8080`
+
+### TODO JITSI + CRYPTPAD
